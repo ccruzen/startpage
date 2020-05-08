@@ -135,7 +135,7 @@
                     "url": "https://www.technologyreview.com/"
                   }
                 ]
-              }
+              },
               {
                 "category": "Network/Computer",
                 "links": [
@@ -152,7 +152,7 @@
                     "url": "https://www.technologyreview.com/"
                   }
                 ]
-              }
+              },
               {
                 "category": "Forums",
                 "links": [
@@ -169,9 +169,9 @@
                     "url": "https://www.technologyreview.com/"
                   }
                 ]
-              }
+              },
               {
-                "category": "Bastian"
+                "category": "Bastian",
                 "links": [
                   {
                     "name": "TheNextWeb",
