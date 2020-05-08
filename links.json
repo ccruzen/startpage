@@ -14,6 +14,30 @@
                   {
                     "name": "Slack",
                     "url": "https://slack.com/signin"
+                  },
+				  {
+                    "name": "Discord",
+                    "url": "https://discordapp.com/"
+                  },
+                  {
+                    "name": "Gmail",
+                    "url": "http://gmail.com"
+                  },
+                  {
+                    "name": "Slack",
+                    "url": "https://slack.com/signin"
+                  },
+				  {
+                    "name": "Discord",
+                    "url": "https://discordapp.com/"
+                  },
+                  {
+                    "name": "Gmail",
+                    "url": "http://gmail.com"
+                  },
+                  {
+                    "name": "Slack",
+                    "url": "https://slack.com/signin"
                   }
                 ]
               },
