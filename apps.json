@@ -1,8 +1,8 @@
 {
     "apps" : [
-        {"name":"CruzunRAID","url":"57e63ee9ac37ea0c8f54e300d51abb7a0bf0557d.unraid.net/","icon":"server"},
-        {"name":"Cairon","url":"bf8afe5d75b57596993ef7ebb283f4d20e877037.unraid.net/","icon":"server"},
-        {"name":"testbench","url":"ace2640f7641c8afe7a9e33e41eebbf1a354f4e1.unraid.net/","icon":"server"},
+        {"name":"CruzunRAID","url":"57e63ee9ac37ea0c8f54e300d51abb7a0bf0557d.unraid.net/Dashboard","icon":"server"},
+        {"name":"Cairon","url":"bf8afe5d75b57596993ef7ebb283f4d20e877037.unraid.net/Dashboard","icon":"server"},
+        {"name":"testbench","url":"ace2640f7641c8afe7a9e33e41eebbf1a354f4e1.unraid.net/Dashboard","icon":"server"},
         {"name":"NZBget","url":"nzbget.cruzenonline.com","icon":"download"},
         {"name":"Deluge","url":"deluge.cruzenonline.com","icon":"water"},
         {"name":"Ombi","url":"ombi.cruzenonline.com","icon":"magnify"},
