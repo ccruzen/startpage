@@ -43,10 +43,6 @@
 				  {
                     "name": "Google Play Music",
                     "url": "https://play.google.com/music/"
-                  },
-				  {
-                    "name": "Chrome Apps",
-                    "url": "chrome://apps/"
                   }
                 ]
               },
@@ -54,16 +50,32 @@
                 "category": "File Sources",
                 "links": [
                   {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
+                    "name": "NZBGeek",
+                    "url": "https://nzbgeek.info/"
                   },
                   {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
+                    "name": "AudiobookBay",
+                    "url": "http://audiobookbay.me/"
+                  },
+				  {
+                    "name": "Mobilism",
+                    "url": "https://forum.mobilism.org/index.php"
+                  },
+				  {
+                    "name": "The Pirate Bay",
+                    "url": "http://thepiratebay.org/"
+                  },
+				  {
+                    "name": "RARBG",
+                    "url": "https://rarbg.to/torrents.php"
+                  },
+				  {
+                    "name": "1337x.to",
+                    "url": "https://1337x.to/"
                   },
                   {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
+                    "name": "Binsearch",
+                    "url": "http://www.binsearch.info/"
                   }
                 ]
               },
@@ -71,16 +83,40 @@
                 "category": "Aureon",
                 "links": [
                   {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
+                    "name": "Aureon-SSO",
+                    "url": "https://sso.aureon.com/"
                   },
                   {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
+                    "name": "ConnectWise",
+                    "url": "https://connectwise.aureon.com/?company=Aureon"
+                  },
+				  {
+                    "name": "Conferencing",
+                    "url": "https://insmeeting.netins.com/login.php"
+                  },
+				  {
+                    "name": "Datto Portal",
+                    "url": "https://portal.dattobackup.com/"
+                  },
+				  {
+                    "name": "Technology Products",
+                    "url": "https://alliancetechnologies.sharepoint.com/sites/TechnologyProducts/SitePages/Products.aspx"
+                  },
+				  {
+                    "name": "Ingram Micro",
+                    "url": "https://ingrammicrolink.com/"
+                  },
+				  {
+                    "name": "IPVoiceNow",
+                    "url": "https://myphone.ipvoicenow.com/Common/folder_contents.jsp?menuId=0"
+                  },
+				  {
+                    "name": "Aureon Monitoring",
+                    "url": "https://nms.iowanetworkservices.com/"
                   },
                   {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
+                    "name": "Confluence",
+                    "url": "https://aureon.atlassian.net/wiki/home"
                   }
                 ]
               },
@@ -88,16 +124,24 @@
                 "category": "XDA",
                 "links": [
                   {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
+                    "name": "Nexus 6p",
+                    "url": "http://forum.xda-developers.com/nexus-6p"
                   },
                   {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
+                    "name": "Nexus 6",
+                    "url": "http://forum.xda-developers.com/nexus-6"
+                  },
+				  {
+                    "name": "HTC One (M7)",
+                    "url": "http://forum.xda-developers.com/verizon-htc-one"
+                  },
+				  {
+                    "name": "Amazon Fire",
+                    "url": "http://forum.xda-developers.com/amazon-fire"
                   },
                   {
-                    "name": "Freshome",
-                    "url": "https://freshome.com/"
+                    "name": "nVidia Shield Android TV",
+                    "url": "https://forum.xda-developers.com/shield-tv"
                   }
                 ]
               },
