@@ -1,21 +1,21 @@
 {
     "apps" : [
-        {"name":"CruzunRAID","url":"192.168.1.99","icon":"server"},
-        {"name":"Cairon","url":"192.168.1.75","icon":"server"},
-        {"name":"testbench","url":"192.168.1.5","icon":"server"},
-        {"name":"NZBget","url":"nzbget.cruzenonline.com/","icon":"download"},
-        {"name":"Deluge","url":"cloud.example.com","icon":"package"},
-        {"name":"Ombi","url":"jackett.example.com","icon":"file-find-outline"},
-        {"name":"Sonarr","url":"music.example.com","icon":"music"},
-        {"name":"Radarr","url":"minio.example.com","icon":"server"},
-        {"name":"Radarr4k","url":"comics.example.com","icon":"book-open-variant"},
-        {"name":"Plex-External","url":"cloud.example.com","icon":"plex"},
-        {"name":"Booksonic","url":"request.example.com","icon":"file-find-outline"},
-        {"name":"CruzenCloud","url":"pihole.example.com","icon":"do-not-disturb"},
-        {"name":"JDownloader2","url":"play.example.com","icon":"plex"},
-        {"name":"Airsonic","url":"port1.example.com","icon":"docker"},
-        {"name":"Calibre-web","url":"movies.example.com","icon":"filmstrip"},
-        {"name":"Krusader","url":"tv.example.com","icon":"television-box"},
-        {"name":"Wiki","url":"md.example.com","icon":"markdown"}
+        {"name":"CruzunRAID","url":"todo","icon":"server"},
+        {"name":"Cairon","url":"todo","icon":"server"},
+        {"name":"testbench","url":"todo","icon":"server"},
+        {"name":"NZBget","url":"nzbget.cruzenonline.com","icon":"download"},
+        {"name":"Deluge","url":"deluge.cruzenonline.com","icon":"water"},
+        {"name":"Ombi","url":"ombi.cruzenonline.com","icon":"magnify"},
+        {"name":"Sonarr","url":"sonarr.cruzenonline.com","icon":"television-classic"},
+        {"name":"Radarr","url":"radarr.cruzenonline.com","icon":"movie-open-outline"},
+        {"name":"Radarr4k","url":"radarr4k.cruzenonline.com","icon":"movie-open"},
+        {"name":"Plex-External","url":"app.plex.tv/desktop","icon":"plex"},
+        {"name":"Booksonic","url":"booksonic.cruzenonline.com","icon":"book"},
+        {"name":"CruzenCloud","url":"nextcloud.cruzenonline.com","icon":"cloud-lock"},
+        {"name":"JDownloader2","url":"todo","icon":"download"},
+        {"name":"Airsonic","url":"music.cruzenonline.com","icon":"music-note"},
+        {"name":"Calibre-web","url":"todo","icon":"book"},
+        {"name":"Krusader","url":"todo","icon":"folder"},
+        {"name":"Wiki","url":"wiki.cruzenonline.com","icon":"wikipedia"}
     ]
 }
