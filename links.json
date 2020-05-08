@@ -14,30 +14,6 @@
                   {
                     "name": "Unraid Forums",
                     "url": "https://forums.unraid.net/"
-                  },
-				  {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
-                  },
-                  {
-                    "name": "Gmail",
-                    "url": "http://gmail.com"
-                  },
-                  {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
-                  },
-				  {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
-                  },
-                  {
-                    "name": "Gmail",
-                    "url": "http://gmail.com"
-                  },
-                  {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
                   }
                 ]
               },
