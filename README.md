@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ed1acb36-aae2-470b-b7d1-fcc81ec4a587/deploy-status)](https://app.netlify.com/sites/adoring-khorana-53a401/deploys)
+
 ## SUI
 *a startpage for your server and / or new tab page*
 
