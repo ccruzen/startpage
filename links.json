@@ -14,6 +14,10 @@
                   {
                     "name": "Unraid Forums",
                     "url": "https://forums.unraid.net/"
+                  },
+				                    {
+                    "name": "Reddit",
+                    "url": "https://reddit.com/"
                   }
                 ]
               },
@@ -163,41 +167,49 @@
                 ]
               },
               {
-                "category": "Bands/Musicians",
+                "category": "Forums",
                 "links": [
                   {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
+                    "name": "Audiokarma",
+                    "url": "https://audiokarma.org/forums/index.php"
                   },
                   {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
+                    "name": "Polk Audio",
+                    "url": "https://forum.polkaudio.com/"
                   },
                   {
-                    "name": "YouTube",
-                    "url": "http://youtube.com/subscriptions"
-                  }
-                ]
-              },
-              {
-                "category": "Authors",
-                "links": [
-                  {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
-                  },
-                  {
-                    "name": "Medium",
-                    "url": "http://medium.com"
-                  },
-                  {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
+                    "name": "AVS Forums",
+                    "url": "https://www.avsforum.com/forum/index.php"
                   }
                 ]
               },
               {
                 "category": "Fitness",
+                "links": [
+                  {
+                    "name": "My Fitness Pal",
+                    "url": "http://www.myfitnesspal.com/"
+                  },
+                  {
+                    "name": "JEFIT",
+                    "url": "http://jefit.com/"
+                  },
+				  {
+                    "name": "Fitocracy",
+                    "url": "https://www.fitocracy.com/home/"
+                  },
+				  {
+                    "name": "MapMyRide",
+                    "url": "http://www.mapmyride.com/my_home/"
+                  },
+                  {
+                    "name": "Predicting One-Rep Max",
+                    "url": "http://www.exrx.net/Calculators/OneRepMax.html"
+                  }
+                ]
+              },
+              {
+                "category": "Authors",
                 "links": [
                   {
                     "name": "TheNextWeb",
@@ -217,6 +229,30 @@
                 "category": "Network/Computer",
                 "links": [
                   {
+                    "name": "Cloudflare",
+                    "url": "https://www.cloudflare.com/"
+                  },
+				  {
+                    "name": "Namecheap",
+                    "url": "https://www.namecheap.com/"
+                  },
+				  {
+                    "name": "DNS-O-Matic",
+                    "url": "https://www.dnsomatic.com/"
+                  },
+				  {
+                    "name": "FreeDNS",
+                    "url": "https://freedns.afraid.org/"
+                  },
+				  {
+                    "name": "GalliumOS",
+                    "url": "https://galliumos.org/"
+                  },
+				  {
+                    "name": "ASUS Router",
+                    "url": "http://192.168.1.1/Main_Login.asp"
+                  },
+				  {
                     "name": "Online Arcade",
                     "url": "http://gizmodo.com/the-internet-archives-created-a-free-online-arcade-with-1654400462"
                   },
@@ -231,7 +267,7 @@
                 ]
               },
               {
-                "category": "Forums",
+                "category": "Bands/Musicians",
                 "links": [
                   {
                     "name": "TheNextWeb",
@@ -251,16 +287,44 @@
                 "category": "Bastian",
                 "links": [
                   {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
+                    "name": "Gigabyte X570 Aorus Pro WIFI",
+                    "url": "https://www.gigabyte.com/us/Motherboard/X570-AORUS-PRO-WIFI-rev-1x/support#support-dl-utility"
                   },
                   {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
+                    "name": "AMD Ryzen 7 3700X",
+                    "url": "https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x"
+                  },
+				  {
+                    "name": "Noctua NH U12S chromax.black",
+                    "url": "https://noctua.at/en/nh-u12s-chromax-black"
+                  },
+				  {
+                    "name": "G.Skill F4-3600C16D-32GVKC",
+                    "url": "https://www.gskill.com/product/165/184/1562831784/F4-3600C16D-32GVKC-Overview"
+                  },
+				  {
+                    "name": "NZXT H510 Elite",
+                    "url": "https://www.nzxt.com/products/h510-elite-matte-white"
+                  },
+				  {
+                    "name": "ADATA XPG SX8200 Pro 1TB",
+                    "url": "https://shop.adata.com/us/ASX8200PNP-1TT-C"
+                  },
+				  {
+                    "name": "Gigabyte GeForce RTX 2070 Super Windforce OC 8G",
+                    "url": "https://www.gigabyte.com/us/Graphics-Card/GV-N207SWF3OC-8GC#kf"
+                  },
+				  {
+                    "name": "Corsair RM750x",
+                    "url": "https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020179-NA"
+                  },
+				  {
+                    "name": "Dell S2719DGF",
+                    "url": "https://www.dell.com/en-us/shop/dell-27-gaming-monitor-s2719dgf/apd/210-arcj/monitors-monitor-accessories"
                   },
                   {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "HP ProDisplay P221",
+                    "url": "https://support.hp.com/us-en/document/c03723223"
                   }
                 ]
               }			  
