@@ -212,16 +212,40 @@
                 "category": "Authors",
                 "links": [
                   {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
+                    "name": "Brandon Sanderson",
+                    "url": "https://brandonsanderson.com/"
                   },
                   {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
+                    "name": "George R. R. Martin",
+                    "url": "http://georgerrmartin.com/"
+                  },
+				  {
+                    "name": "Justin Cronin",
+                    "url": "http://enterthepassage.com/"
+                  },
+				  {
+                    "name": "Rick Riordan",
+                    "url": "http://www.rickriordan.com/home.aspx"
+                  },
+				  {
+                    "name": "Stephen Hunter",
+                    "url": "http://en.wikipedia.org/wiki/Stephen_Hunter"
+                  },
+				  {
+                    "name": "Vince Flynn",
+                    "url": "http://www.vinceflynn.com/"
+                  },
+				  {
+                    "name": "Stephenie Meyer",
+                    "url": "http://www.stepheniemeyer.com/"
+                  },
+				  {
+                    "name": "John L. Parker, Jr.",
+                    "url": "http://en.wikipedia.org/wiki/John_L._Parker,_Jr."
                   },
                   {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "Dan Brown",
+                    "url": "http://www.danbrown.com/"
                   }
                 ]
               },
@@ -270,16 +294,108 @@
                 "category": "Bands/Musicians",
                 "links": [
                   {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
+                    "name": "Joe Purdy",
+                    "url": "http://joepurdy.com/"
                   },
                   {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
+                    "name": "Pax-Am Records",
+                    "url": "http://paxamrecords.com/"
+                  },
+				  {
+                    "name": "Radiohead",
+                    "url": "http://radiohead.com/"
+                  },
+				  {
+                    "name": "Brian Wright",
+                    "url": "http://brianwrightmusic.com/"
+                  },
+				  {
+                    "name": "Jay William Henderson",
+                    "url": "http://www.jaywilliamhenderson.com/"
+                  },
+				  {
+                    "name": "Paolo Nutini",
+                    "url": "http://www.paolonutini.com/"
+                  },
+				  {
+                    "name": "Boxer Rebellion",
+                    "url": "http://theboxerrebellion.com//"
+                  },
+				  {
+                    "name": "Damien Rice",
+                    "url": "http://www.damienrice.com/"
+                  },
+				  {
+                    "name": "Band of Horses",
+                    "url": "http://www.bandofhorses.com/"
+                  },
+				  {
+                    "name": "The Milk Carton Kids",
+                    "url": "http://www.themilkcartonkids.com/"
+                  },
+				  {
+                    "name": "Conor Oberst",
+                    "url": "http://www.themilkcartonkids.com/"
+                  },
+				  {
+                    "name": "Ray LaMontagne",
+                    "url": "http://www.raylamontagne.com/"
+                  },
+				  {
+                    "name": "Joshua Radin",
+                    "url": "http://joshuaradin.com/"
+                  },
+				  {
+                    "name": "Stereophonics",
+                    "url": "http://www.stereophonics.com/"
+                  },
+				  {
+                    "name": "Dawes",
+                    "url": "http://dawestheband.com/"
+                  },
+				  {
+                    "name": "Middle Brother",
+                    "url": "http://www.middlebrother.com/"
+                  },
+				  {
+                    "name": "Delta Spirit",
+                    "url": "http://deltaspirit.net/"
+                  },
+				  {
+                    "name": "Deer Tick",
+                    "url": "http://www.deertickmusic.com/"
+                  },
+				  {
+                    "name": "Amos Lee",
+                    "url": "http://amoslee.com/"
+                  },
+				  {
+                    "name": "Gregory Alan Isakov",
+                    "url": "http://www.gregoryalanisakov.com/"
+                  },
+				  {
+                    "name": "The Weepies",
+                    "url": "http://theweepies.com/"
+                  },
+				  {
+                    "name": "Jonny Lang",
+                    "url": "http://www.jonnylang.com/"
+                  },
+				  {
+                    "name": "The Rural Albera Advantage",
+                    "url": "http://www.theraa.com/"
+                  },
+				  {
+                    "name": "Death Cab for Cutie",
+                    "url": "http://www.deathcabforcutie.com/"
+                  },
+				  {
+                    "name": "The Head and the Heart",
+                    "url": "http://www.theheadandtheheart.com/"
                   },
                   {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "Anderson East",
+                    "url": "https://andersoneast.com/"
                   }
                 ]
               },
