@@ -4,16 +4,16 @@
                 "category": "Main",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
+                    "name": "Feedly",
+                    "url": "http://cloud.feedly.com/#latest"
                   },
                   {
-                    "name": "Gmail",
-                    "url": "http://gmail.com"
+                    "name": "Cyclone Fanatic",
+                    "url": "https://cyclonefanatic.com/"
                   },
                   {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
+                    "name": "Unraid Forums",
+                    "url": "https://forums.unraid.net/"
                   },
 				  {
                     "name": "Discord",
@@ -45,16 +45,32 @@
                 "category": "Google",
                 "links": [
                   {
-                    "name": "Box",
-                    "url": "https://box.net"
+                    "name": "Gmail",
+                    "url": "https://mail.google.com/mail/u/0/"
                   },
                   {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com"
+                    "name": "Messages for Web",
+                    "url": "https://messages.google.com/web/conversations"
                   },
                   {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
+                    "name": "Keep",
+                    "url": "https://keep.google.com/#home"
+                  },
+				  {
+                    "name": "Google Remote Desktop",
+                    "url": "https://remotedesktop.google.com/home"
+                  },
+				  {
+                    "name": "Calendar",
+                    "url": "https://www.google.com/calendar/"
+                  },
+				  {
+                    "name": "Google Play Music",
+                    "url": "https://play.google.com/music/"
+                  },
+				  {
+                    "name": "Chrome Apps",
+                    "url": "chrome://apps/"
                   }
                 ]
               },
@@ -106,6 +122,23 @@
                   {
                     "name": "Freshome",
                     "url": "https://freshome.com/"
+                  }
+                ]
+              },
+			                {
+                "category": "Smartthings/MonoAMP",
+                "links": [
+                  {
+                    "name": "AVS-MonoAMP",
+                    "url": "http://www.avsforum.com/forum/36-home-v-distribution/1506842-any-experience-monoprice-6-zone-home-audio-multizone-controller.html"
+                  },
+                  {
+                    "name": "Smartthings IDE",
+                    "url": "https://account.smartthings.com/login"
+                  },
+                  {
+                    "name": "Smartthings-MonoAMP",
+                    "url": "https://community.smartthings.com/t/release-russound-multi-zone-controller-integration/41203"
                   }
                 ]
               },
@@ -164,16 +197,16 @@
                 "category": "Network/Computer",
                 "links": [
                   {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
+                    "name": "Online Arcade",
+                    "url": "http://gizmodo.com/the-internet-archives-created-a-free-online-arcade-with-1654400462"
                   },
                   {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
+                    "name": "Kiiboh Configurator",
+                    "url": "https://github.com/kiibohd/configurator/releases"
                   },
                   {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "Keyboard Layour Editor",
+                    "url": "http://www.keyboard-layout-editor.com/#/gists/6608410c34d80e8e7cabb25c7d903a19"
                   }
                 ]
               },
