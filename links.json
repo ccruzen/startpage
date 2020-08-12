@@ -398,51 +398,6 @@
                     "url": "https://andersoneast.com/"
                   }
                 ]
-              },
-              {
-                "category": "Bastian",
-                "links": [
-                  {
-                    "name": "Gigabyte X570 Aorus Pro WIFI",
-                    "url": "https://www.gigabyte.com/us/Motherboard/X570-AORUS-PRO-WIFI-rev-1x/support#support-dl-utility"
-                  },
-                  {
-                    "name": "AMD Ryzen 7 3700X",
-                    "url": "https://www.amd.com/en/products/cpu/amd-ryzen-7-3700x"
-                  },
-				  {
-                    "name": "Noctua NH U12S chromax.black",
-                    "url": "https://noctua.at/en/nh-u12s-chromax-black"
-                  },
-				  {
-                    "name": "G.Skill F4-3600C16D-32GVKC",
-                    "url": "https://www.gskill.com/product/165/184/1562831784/F4-3600C16D-32GVKC-Overview"
-                  },
-				  {
-                    "name": "NZXT H510 Elite",
-                    "url": "https://www.nzxt.com/products/h510-elite-matte-white"
-                  },
-				  {
-                    "name": "ADATA XPG SX8200 Pro 1TB",
-                    "url": "https://shop.adata.com/us/ASX8200PNP-1TT-C"
-                  },
-				  {
-                    "name": "Gigabyte GeForce RTX 2070 Super Windforce OC 8G",
-                    "url": "https://www.gigabyte.com/us/Graphics-Card/GV-N207SWF3OC-8GC#kf"
-                  },
-				  {
-                    "name": "Corsair RM750x",
-                    "url": "https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020179-NA"
-                  },
-				  {
-                    "name": "Dell S2719DGF",
-                    "url": "https://www.dell.com/en-us/shop/dell-27-gaming-monitor-s2719dgf/apd/210-arcj/monitors-monitor-accessories"
-                  },
-                  {
-                    "name": "HP ProDisplay P221",
-                    "url": "https://support.hp.com/us-en/document/c03723223"
-                  }
-                ]
-              }			  
+              },			  
             ]
         }
