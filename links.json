@@ -121,6 +121,10 @@
                   {
                     "name": "Confluence",
                     "url": "https://aureon.atlassian.net/wiki/home"
+                  },
+				                    {
+                    "name": "Automate",
+                    "url": "https://pcwa.aureon.com/automate/login"
                   }
                 ]
               },
