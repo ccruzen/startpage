@@ -18,7 +18,19 @@
 				                    {
                     "name": "Reddit",
                     "url": "https://reddit.com/"
-                  }
+                  },
+				  {
+                    "name": "Audiokarma",
+                    "url": "https://audiokarma.org/forums/index.php"
+                  },
+                  {
+                    "name": "Polk Audio",
+                    "url": "https://forum.polkaudio.com/"
+                  },
+                  {
+                    "name": "AVS Forums",
+                    "url": "https://www.avsforum.com/forum/index.php"
+				  }
                 ]
               },
               {
@@ -167,23 +179,6 @@
                   {
                     "name": "Smartthings-MonoAMP",
                     "url": "https://community.smartthings.com/t/release-russound-multi-zone-controller-integration/41203"
-                  }
-                ]
-              },
-              {
-                "category": "Forums",
-                "links": [
-                  {
-                    "name": "Audiokarma",
-                    "url": "https://audiokarma.org/forums/index.php"
-                  },
-                  {
-                    "name": "Polk Audio",
-                    "url": "https://forum.polkaudio.com/"
-                  },
-                  {
-                    "name": "AVS Forums",
-                    "url": "https://www.avsforum.com/forum/index.php"
                   }
                 ]
               },
