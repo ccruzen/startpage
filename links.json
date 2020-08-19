@@ -63,6 +63,10 @@
 				  {
                     "name": "YouTube Music",
                     "url": "https://music.youtube.com/"
+                  },
+				   {
+                    "name": "YouTube TV",
+                    "url": "https://www.tv.youtube.com"
                   }
                 ]
               },
