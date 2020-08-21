@@ -18,7 +18,7 @@
         {"name":"Airsonic","url":"music.cruzenonline.com","icon":"music-note"},
         {"name":"Calibre-web","url":"books.cruzenonline.com/","icon":"book"},
         {"name":"Krusader","url":"192.168.1.99:6080/vnc.html?resize=remote&host=192.168.1.99&port=6080&autoconnect=1","icon":"folder"},
-        {"name":"Wiki","url":"wiki.cruzenonline.com","icon":"wikipedia"},
+        {"name":"Wiki2","url":"wiki.cruzenonline.com","icon":"wikipedia"},
 	{"name":"Unifi","url":"unifi.cruzenonline.com","icon":"wifi"}
     ]
 }
