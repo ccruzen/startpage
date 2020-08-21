@@ -30,6 +30,14 @@
                   {
                     "name": "AVS Forums",
                     "url": "https://www.avsforum.com/forum/index.php"
+				  },
+				  {
+                    "name": "Pi-hole 1",
+                    "url": "http://192.168.1.101/admin/"
+				  },
+				  {
+                    "name": "Pi-hole 2",
+                    "url": "http://192.168.1.102/admin/"
 				  }
                 ]
               },
