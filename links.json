@@ -108,6 +108,10 @@
                   {
                     "name": "Binsearch",
                     "url": "http://www.binsearch.info/"
+                  },
+				                    {
+                    "name": "Lossless Albums",
+                    "url": "https://losslessalbums.club/"
                   }
                 ]
               },
