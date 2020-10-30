@@ -9,6 +9,7 @@
         {"name":"Deluge","url":"deluge.cruzenonline.com","icon":"water"},
         {"name":"Ombi","url":"ombi.cruzenonline.com","icon":"magnify"},
         {"name":"Sonarr","url":"sonarr.cruzenonline.com","icon":"television-classic"},
+		{"name":"Sonarr4k","url":"sonarr4k.cruzenonline.com","icon":"television-classic"},
         {"name":"Radarr","url":"radarr.cruzenonline.com","icon":"movie-open-outline"},
         {"name":"Radarr4k","url":"radarr4k.cruzenonline.com","icon":"movie-open"},
         {"name":"Plex-External","url":"app.plex.tv/desktop","icon":"plex"},
