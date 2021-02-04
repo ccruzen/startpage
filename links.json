@@ -309,6 +309,15 @@
                   }
                 ]
               },
+			                {
+                "category": "Misc",
+                "links": [
+                  {
+                    "name": "Cutlist Optimizer",
+                    "url": "https://cutlistoptimizer.com/"
+                  }
+                ]
+              },
               {
                 "category": "Bands/Musicians",
                 "links": [
