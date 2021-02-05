@@ -32,6 +32,10 @@
                     "url": "https://www.avsforum.com/forum/index.php"
 				  },
 				  {
+                    "name": "Discogs",
+                    "url": "https://www.discogs.com/"
+				  },
+				  {
                     "name": "Pi-hole 1",
                     "url": "http://192.168.1.101/admin/"
 				  },
