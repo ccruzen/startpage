@@ -7,7 +7,7 @@
         {"name":"testbench","url":"ace2640f7641c8afe7a9e33e41eebbf1a354f4e1.unraid.net/Dashboard","icon":"server"},
         {"name":"NZBget","url":"nzbget.cruzenonline.com","icon":"download"},
         {"name":"Deluge","url":"deluge.cruzenonline.com","icon":"water"},
-        {"name":"Ombi","url":"ombi.cruzenonline.com","icon":"magnify"},
+        {"name":"Overseerr","url":"overseerr.cruzenonline.com","icon":"magnify"},
         {"name":"Sonarr","url":"sonarr.cruzenonline.com","icon":"television-classic"},
 		{"name":"Sonarr4k","url":"sonarr4k.cruzenonline.com","icon":"television-classic"},
         {"name":"Radarr","url":"radarr.cruzenonline.com","icon":"movie-open-outline"},
