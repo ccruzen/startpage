@@ -158,9 +158,49 @@
                     "name": "Confluence",
                     "url": "https://aureon.atlassian.net/wiki/home"
                   },
-				                    {
+				  {
                     "name": "Automate",
                     "url": "https://pcwa.aureon.com/automate/login"
+                  },
+				  {
+                    "name": "Aureon Core",
+                    "url": "https://core.aureon.com"
+                  },
+				  {
+                    "name": "Neustar Numbering Portal",
+                    "url": "https://numbering.neustar.biz/login"
+                  },
+				  {
+                    "name": "LTI Portal",
+                    "url": "https://lti.numberportability.com/"
+                  },
+				  {
+                    "name": "Dash",
+                    "url": "https://dashboard.dashcs.com/dash-board/login.jsp"
+                  },
+				  {
+                    "name": "Intrado 9-1-1 NET",
+                    "url": "https://www-9-1-1net.intrado.com/911Net/"
+                  },
+				  {
+                    "name": "Comtech 911",
+                    "url": "https://soia.iowang911.com/ALIDBMSWeb/login.aspx"
+                  },
+				  {
+                    "name": "MACC MSaaS",
+                    "url": "https://msaas.maccnet.com/vpn/index.html"
+                  },
+				  {
+                    "name": "Windstream Express",
+                    "url": "https://www.express.windstream.com/LoginCtlr"
+                  },
+				  {
+                    "name": "Bandwidth Dashboard",
+                    "url": "https://dashboard.bandwidth.com/portal/r/login"
+                  },
+				  {
+                    "name": "IMA - Ease",
+                    "url": "https://ease-lsr.centurylink.com/login.jsp"
                   }
                 ]
               },
