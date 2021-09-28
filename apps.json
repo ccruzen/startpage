@@ -2,8 +2,8 @@
     "apps" : [
         {"name":"CruzunRAID","url":"57e63ee9ac37ea0c8f54e300d51abb7a0bf0557d.unraid.net/Dashboard","icon":"server"},
         {"name":"Cairon","url":"bf8afe5d75b57596993ef7ebb283f4d20e877037.unraid.net/Dashboard","icon":"server"},
-	{"name":"ProxMox","url":"192.168.1.10:8006","icon":"server"},
-	{"name":"OPNsense","url":"192.168.1.1/index.php","icon":"router-network"},
+		{"name":"ProxMox","url":"192.168.1.10:8006","icon":"server"},
+		{"name":"OPNsense","url":"192.168.1.1/index.php","icon":"router-network"},
         {"name":"testbench","url":"ace2640f7641c8afe7a9e33e41eebbf1a354f4e1.unraid.net/Dashboard","icon":"server"},
         {"name":"NZBget","url":"nzbget.cruzenonline.com","icon":"download"},
         {"name":"Deluge","url":"deluge.cruzenonline.com","icon":"water"},
@@ -18,10 +18,10 @@
         {"name":"JDownloader2","url":"192.168.1.75:7807/","icon":"download"},
         {"name":"Airsonic","url":"music.cruzenonline.com","icon":"music-note"},
         {"name":"Calibre-web","url":"books.cruzenonline.com/","icon":"book"},
-        {"name":"Calibre","url":"192.168.1.75:8080/","icon":"book"},
+        {"name":"Calibre","url":"calibre.cruzenonline.com/","icon":"book"},
         {"name":"Krusader","url":"192.168.1.99:6080/vnc.html?resize=remote&host=192.168.1.99&port=6080&autoconnect=1","icon":"folder"},
         {"name":"Wiki","url":"wiki.cruzenonline.com","icon":"wikipedia"},
-	{"name":"Unifi","url":"unifi.cruzenonline.com","icon":"wifi"},
-	{"name":"Guacamole","url":"guacamole.cruzenonline.com","icon":"remote-desktop"}
+		{"name":"Unifi","url":"unifi.cruzenonline.com","icon":"wifi"},
+		{"name":"Guacamole","url":"guacamole.cruzenonline.com","icon":"remote-desktop"}
     ]
 }
