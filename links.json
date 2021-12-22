@@ -34,6 +34,9 @@
 				  {
                     "name": "Discogs",
                     "url": "https://www.discogs.com/"
+				  },				  {
+                    "name": "Oracle Cloud Account",
+                    "url": "https://idcs-c2536e15b81248f388c67aa5bee6674d.identity.oraclecloud.com/ui/v1/signin"
 				  },
 				  {
                     "name": "pivpn",
