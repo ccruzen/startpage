@@ -125,88 +125,20 @@
                   }
                 ]
               },
-              {
-                "category": "Aureon",
+			  {
+                "category": "QCR Holdings, Inc.",
                 "links": [
                   {
-                    "name": "Aureon-SSO",
-                    "url": "https://sso.aureon.com/"
-                  },
-                  {
-                    "name": "ConnectWise",
-                    "url": "https://connectwise.aureon.com/?company=Aureon"
+                    "name": "Qnews",
+                    "url": "http://qnews/Pages/Default.aspx"
                   },
 				  {
-                    "name": "Conferencing",
-                    "url": "https://insmeeting.netins.com/login.php"
+                    "name": "smartsheet",
+                    "url": "https://app.smartsheet.com/folders/personal"
                   },
 				  {
-                    "name": "Datto Portal",
-                    "url": "https://portal.dattobackup.com/"
-                  },
-				  {
-                    "name": "Technology Products",
-                    "url": "https://alliancetechnologies.sharepoint.com/sites/TechnologyProducts/SitePages/Products.aspx"
-                  },
-				  {
-                    "name": "Ingram Micro",
-                    "url": "https://ingrammicrolink.com/"
-                  },
-				  {
-                    "name": "IPVoiceNow",
-                    "url": "https://myphone.ipvoicenow.com/Common/folder_contents.jsp?menuId=0"
-                  },
-				  {
-                    "name": "Aureon Monitoring",
-                    "url": "https://nms.iowanetworkservices.com/"
-                  },
-                  {
-                    "name": "Confluence",
-                    "url": "https://aureon.atlassian.net/wiki/home"
-                  },
-				  {
-                    "name": "Automate",
-                    "url": "https://pcwa.aureon.com/automate/login"
-                  },
-				  {
-                    "name": "Aureon Core",
-                    "url": "https://core.aureon.com"
-                  },
-				  {
-                    "name": "Neustar Numbering Portal",
-                    "url": "https://numbering.neustar.biz/login"
-                  },
-				  {
-                    "name": "LTI Portal",
-                    "url": "https://lti.numberportability.com/"
-                  },
-				  {
-                    "name": "Dash",
-                    "url": "https://dashboard.dashcs.com/dash-board/login.jsp"
-                  },
-				  {
-                    "name": "Intrado 9-1-1 NET",
-                    "url": "https://www-9-1-1net.intrado.com/911Net/"
-                  },
-				  {
-                    "name": "Comtech 911",
-                    "url": "https://soia.iowang911.com/ALIDBMSWeb/login.aspx"
-                  },
-				  {
-                    "name": "MACC MSaaS",
-                    "url": "https://msaas.maccnet.com/vpn/index.html"
-                  },
-				  {
-                    "name": "Windstream Express",
-                    "url": "https://www.express.windstream.com/LoginCtlr"
-                  },
-				  {
-                    "name": "Bandwidth Dashboard",
-                    "url": "https://dashboard.bandwidth.com/portal/r/login"
-                  },
-				  {
-                    "name": "IMA - Ease",
-                    "url": "https://ease-lsr.centurylink.com/login.jsp"
+                    "name": "My IT Q",
+                    "url": "https://myitq.qcrh.com/s/myitq?token=jrBjvmOH8Vla7ABGSBcGAw%3D%3D"
                   }
                 ]
               },
@@ -375,20 +307,88 @@
                   }
                 ]
               },
-			                {
-                "category": "QCR Holdings, Inc.",
+              {
+                "category": "Aureon",
                 "links": [
                   {
-                    "name": "Qnews",
-                    "url": "http://qnews/Pages/Default.aspx"
+                    "name": "Aureon-SSO",
+                    "url": "https://sso.aureon.com/"
+                  },
+                  {
+                    "name": "ConnectWise",
+                    "url": "https://connectwise.aureon.com/?company=Aureon"
                   },
 				  {
-                    "name": "smartsheet",
-                    "url": "https://app.smartsheet.com/folders/personal"
+                    "name": "Conferencing",
+                    "url": "https://insmeeting.netins.com/login.php"
                   },
 				  {
-                    "name": "My IT Q",
-                    "url": "https://myitq.qcrh.com/s/myitq?token=jrBjvmOH8Vla7ABGSBcGAw%3D%3D"
+                    "name": "Datto Portal",
+                    "url": "https://portal.dattobackup.com/"
+                  },
+				  {
+                    "name": "Technology Products",
+                    "url": "https://alliancetechnologies.sharepoint.com/sites/TechnologyProducts/SitePages/Products.aspx"
+                  },
+				  {
+                    "name": "Ingram Micro",
+                    "url": "https://ingrammicrolink.com/"
+                  },
+				  {
+                    "name": "IPVoiceNow",
+                    "url": "https://myphone.ipvoicenow.com/Common/folder_contents.jsp?menuId=0"
+                  },
+				  {
+                    "name": "Aureon Monitoring",
+                    "url": "https://nms.iowanetworkservices.com/"
+                  },
+                  {
+                    "name": "Confluence",
+                    "url": "https://aureon.atlassian.net/wiki/home"
+                  },
+				  {
+                    "name": "Automate",
+                    "url": "https://pcwa.aureon.com/automate/login"
+                  },
+				  {
+                    "name": "Aureon Core",
+                    "url": "https://core.aureon.com"
+                  },
+				  {
+                    "name": "Neustar Numbering Portal",
+                    "url": "https://numbering.neustar.biz/login"
+                  },
+				  {
+                    "name": "LTI Portal",
+                    "url": "https://lti.numberportability.com/"
+                  },
+				  {
+                    "name": "Dash",
+                    "url": "https://dashboard.dashcs.com/dash-board/login.jsp"
+                  },
+				  {
+                    "name": "Intrado 9-1-1 NET",
+                    "url": "https://www-9-1-1net.intrado.com/911Net/"
+                  },
+				  {
+                    "name": "Comtech 911",
+                    "url": "https://soia.iowang911.com/ALIDBMSWeb/login.aspx"
+                  },
+				  {
+                    "name": "MACC MSaaS",
+                    "url": "https://msaas.maccnet.com/vpn/index.html"
+                  },
+				  {
+                    "name": "Windstream Express",
+                    "url": "https://www.express.windstream.com/LoginCtlr"
+                  },
+				  {
+                    "name": "Bandwidth Dashboard",
+                    "url": "https://dashboard.bandwidth.com/portal/r/login"
+                  },
+				  {
+                    "name": "IMA - Ease",
+                    "url": "https://ease-lsr.centurylink.com/login.jsp"
                   }
                 ]
               },
