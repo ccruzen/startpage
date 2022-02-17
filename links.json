@@ -132,6 +132,10 @@
                     "name": "Qnews",
                     "url": "http://qnews/Pages/Default.aspx"
                   },
+                  {
+                    "name": "All BPO Documentation",
+                    "url": "http://qnews/GO/BIC/SOP/SOP%20Documents%20and%20Resources/Forms/AllItems.aspx"
+                  },
 				  {
                     "name": "smartsheet",
                     "url": "https://app.smartsheet.com/folders/personal"
