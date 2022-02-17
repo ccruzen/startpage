@@ -375,6 +375,23 @@
                   }
                 ]
               },
+			                {
+                "category": "QCR Holdings, Inc.",
+                "links": [
+                  {
+                    "name": "Qnews",
+                    "url": "http://qnews/Pages/Default.aspx"
+                  },
+				  {
+                    "name": "smartsheet",
+                    "url": "https://app.smartsheet.com/folders/personal"
+                  },
+				  {
+                    "name": "My IT Q",
+                    "url": "https://myitq.qcrh.com/s/myitq?token=jrBjvmOH8Vla7ABGSBcGAw%3D%3D"
+                  }
+                ]
+              },
               {
                 "category": "Bands/Musicians",
                 "links": [
