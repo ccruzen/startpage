@@ -4,6 +4,9 @@
                 "category": "Main",
                 "links": [
                   {
+                    "name": "FreshRSS",
+                    "url": "https://rss.cruzenonline.com/"
+                  },                  {
                     "name": "Feedly",
                     "url": "http://cloud.feedly.com/#latest"
                   },
