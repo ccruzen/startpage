@@ -20,7 +20,7 @@
         {"name":"Calibre-web","url":"books.cruzenonline.com/","icon":"book"},
         {"name":"Calibre","url":"calibre.cruzenonline.com/","icon":"book"},
         {"name":"Krusader","url":"192.168.1.99:6080/vnc.html?resize=remote&host=192.168.1.99&port=6080&autoconnect=1","icon":"folder"},
-        {"name":"Wiki","url":"wiki.cruzen.org","icon":"wikipedia"},
+        {"name":"Wiki","url":"wiki.cruzenonline.com","icon":"wikipedia"},
 		{"name":"Unifi","url":"unifi.cruzenonline.com","icon":"wifi"},
 		{"name":"Guacamole","url":"guacamole.cruzenonline.com","icon":"remote-desktop"},
 		{"name":"VS Code","url":"code.cruzenonline.com","icon":"microsoft-visual-studio"}
