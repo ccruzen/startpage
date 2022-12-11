@@ -4,6 +4,7 @@
         {"name":"Cairon","url":"192-168-1-75.bf8afe5d75b57596993ef7ebb283f4d20e877037.myunraid.net","icon":"server"},
 		{"name":"ProxMox","url":"192.168.1.10:8006","icon":"server"},
 		{"name":"OPNsense","url":"192.168.1.1/index.php","icon":"router-network"},
+		{"name":"Home Assistant","url":"homeassistant.cruzenonline.com","icon":"home-assistant"},
         {"name":"testbench","url":"192-168-1-73.ace2640f7641c8afe7a9e33e41eebbf1a354f4e1.myunraid.net","icon":"server"},
         {"name":"NZBget","url":"nzbget.cruzenonline.com","icon":"download"},
         {"name":"Deluge","url":"deluge.cruzenonline.com","icon":"water"},
