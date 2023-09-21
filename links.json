@@ -153,31 +153,6 @@
                   }
                 ]
               },
-              {
-                "category": "XDA",
-                "links": [
-                  {
-                    "name": "Nexus 6p",
-                    "url": "http://forum.xda-developers.com/nexus-6p"
-                  },
-                  {
-                    "name": "Nexus 6",
-                    "url": "http://forum.xda-developers.com/nexus-6"
-                  },
-				  {
-                    "name": "HTC One (M7)",
-                    "url": "http://forum.xda-developers.com/verizon-htc-one"
-                  },
-				  {
-                    "name": "Amazon Fire",
-                    "url": "http://forum.xda-developers.com/amazon-fire"
-                  },
-                  {
-                    "name": "nVidia Shield Android TV",
-                    "url": "https://forum.xda-developers.com/shield-tv"
-                  }
-                ]
-              },
 			  {
                 "category": "3D Printing",
                 "links": [
@@ -200,6 +175,31 @@
                   {
                     "name": "MyMiniFactory",
                     "url": "https://www.myminifactory.com/"
+                  }
+                ]
+              },
+              {
+                "category": "XDA",
+                "links": [
+                  {
+                    "name": "Nexus 6p",
+                    "url": "http://forum.xda-developers.com/nexus-6p"
+                  },
+                  {
+                    "name": "Nexus 6",
+                    "url": "http://forum.xda-developers.com/nexus-6"
+                  },
+				  {
+                    "name": "HTC One (M7)",
+                    "url": "http://forum.xda-developers.com/verizon-htc-one"
+                  },
+				  {
+                    "name": "Amazon Fire",
+                    "url": "http://forum.xda-developers.com/amazon-fire"
+                  },
+                  {
+                    "name": "nVidia Shield Android TV",
+                    "url": "https://forum.xda-developers.com/shield-tv"
                   }
                 ]
               },
