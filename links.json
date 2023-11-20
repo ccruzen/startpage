@@ -99,6 +99,9 @@
                 "category": "File Sources",
                 "links": [
                   {
+                    "name": "DrunkenSlug",
+                    "url": "https://drunkenslug.com/"
+                  },                  {
                     "name": "NZBGeek",
                     "url": "https://nzbgeek.info/"
                   },
