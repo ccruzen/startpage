@@ -147,6 +147,9 @@
                     "url": "http://qnews/GO/BIC/SOP/SOP%20Documents%20and%20Resources/Forms/AllItems.aspx"
                   },
 				  {
+                    "name": "Paylocity",
+                    "url": "https://access.paylocity.com/"
+                  },				  {
                     "name": "smartsheet",
                     "url": "https://app.smartsheet.com/folders/personal"
                   },
