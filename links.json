@@ -160,6 +160,10 @@
 				  {
                     "name": "EasyVista",
                     "url": "https://qcrh.easyvista.com/sso_samlindex.php"
+                  },
+				  {
+                    "name": "SAP Concur",
+                    "url": "https://www.concursolutions.com/"
                   }
                 ]
               },
